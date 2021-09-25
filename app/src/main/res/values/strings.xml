@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences_A_0181</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="clear_field">Clear Field</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome">Selamat Datang, Username</string>
+</resources>
